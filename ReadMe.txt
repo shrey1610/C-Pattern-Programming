@@ -12,7 +12,7 @@ Print function : Outputs the characters onto the keyboard.
 Functions of Each Letter: Describe the style of each letter. 
 Main Function : Prints the complete pattern after calling each letter's function separately. 
 
-S
+
 Gap() adds spaces to the letters spacing. 
 printConsole() : This function outputs to the console the patterns kept in the arrays. S(), H(), R(), E(), Y() and A().
 Define the patterns for the letters 'S', 'H', 'R', 'E', 'Y', 'A', 'S' respectively.
